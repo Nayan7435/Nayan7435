@@ -41,8 +41,8 @@
 | 🛒 [Ecommerce](https://github.com/Nayan7435/Ecommerce) | PHP | Mobile Shop Ecommerce Website |
 
 ## 📊 GitHub Stats
-![Nayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayan7435&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan7435&layout=compact&theme=dark)
+![Nayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayan7435&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan7435&layout=compact&theme=dark&hide_border=true)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayangohel0531)
